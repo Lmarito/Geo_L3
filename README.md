@@ -17,3 +17,4 @@ Manipulation et traitement de données via notebooks Jupyter
 - Enrichissement des données 
 - Filtrage des données 
 - Faire une carte interactive avec Folium
+- etc
