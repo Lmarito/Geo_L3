@@ -65,7 +65,7 @@ jupyter notebook
 # Plan du cours
 ## Apprentissage des bases de Python et des humanités numériques 
 Cours 1 (bases de Python) :    
-[https://mybinder.org/v2/gh/Lmarito/Histoire_M1/HEAD?urlpath=%2Fdoc%2Ftree%2FCours_1.ipynb](https://mybinder.org/v2/gh/Lmarito/Histoire_M1/HEAD?urlpath=%2Fdoc%2Ftree%2FCours_1.ipynb)    
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Lmarito/Geo_L3/tree/main/HEAD?urlpath=%2Fdoc%2Ftree%2FCours_1.ipynb)
 
 ## Applications dans des contextes donnés : OCR, carto, à voir selon vos besoins 
 Cours 2 (données ouvertes, cartographie, OCR et analyses textuelles) :     
