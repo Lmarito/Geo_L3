@@ -1,0 +1,10 @@
+name: history_class
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - pip
+  - jupyterlab
+  - matplotlib
+
