@@ -13,7 +13,7 @@ Lisibilité de la carte
 
 ## Important !
 * Si vous utilisez un outil d'intelligence artificielle, je le saurai, et ce n'est pas autorisé. 
-    L'intérêt n'est pas du tout que vous deveniez des programmateurs de génie, mais que vous compreniez :
+    L'intérêt n'est pas du tout que vous deveniez des programmeurs de génie, mais que vous compreniez :
     - 1- Ce que vous faites ; 
     - 2- Comment vous le faites et 
     - 3- Ce que le traitement des données via un outil de programmation peut vous apporter.
