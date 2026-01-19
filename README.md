@@ -37,13 +37,13 @@ Une fois miniconda installé :
 Dans la barre de recherche, taper "Anaconda Prompt", et ouvrir le programme     
 Dans l'invite de commandes, taper :     
 ```
-setx CONDA_ENVS_PATH ".\.conda\envs"
+setx CONDA_ENVS_PATH "%CD%\.conda\envs"
 ```
 Entrée.     
 
 Puis     
 ```
-setx CONDA_PKGS_DIR ".\.conda\pkgs"
+setx CONDA_PKGS_DIR "%CD%\.conda\pkgs"
 ```
 Entrée.     
 
