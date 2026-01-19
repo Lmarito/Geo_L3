@@ -5,17 +5,21 @@
 → Deux cartes à produire / traitement de données en général    
   
 ## Barème : 
-Contextualisation du traitement des données dans une problématique de recherche 
-Cohérence du code et des explications
-Clarté du code / commentaires
-Lisibilité de la carte
-**Les notes seront harmonisées** → Si tout le monde se plante, ce sera probablement plus de ma faute que de la vôtre. 
+Contextualisation du traitement des données dans une problématique de recherche     
+Cohérence du code et des explications    
+Clarté du code / commentaires    
+Lisibilité de la carte    
+**Les notes seront harmonisées** → Si tout le monde se plante, ce sera probablement plus de ma faute que de la vôtre.     
 
 ## Important !
-* Si vous utilisez un outil d'intelligence artificielle, je le saurai, et ce n'est pas autorisé. L'intérêt n'est pas du tout que vous deveniez des programmateurs de génie, mais que vous compreniez 1- Ce que vous faites ; 2- Comment vous le faites et 3- Ce que le traitement des données via un outil de programmation peut vous apporter.
+* Si vous utilisez un outil d'intelligence artificielle, je le saurai, et ce n'est pas autorisé. 
+    L'intérêt n'est pas du tout que vous deveniez des programmateurs de génie, mais que vous compreniez :
+    - 1- Ce que vous faites ; 
+    - 2- Comment vous le faites et 
+    - 3- Ce que le traitement des données via un outil de programmation peut vous apporter.
 * Vous n'avez pas besoin de m'écrire des notebooks extrêmement compliqués. Ce que j'attends et que j'évaluerai principalement, c'est votre aptitude à traiter des données, pas votre compétence en programmation.
 * N'hésitez pas à faire des cellules de code entrecoupées de cellules de texte : c'est plus lisible et compréhensible
-* Pour vous évaluer, je lancerai l'intégralité de votre code. Si certaines cellules ne fonctionnent pas, je débugguerai si besoin, mais je saurai aussi d'où vient l'erreur, ce qui peut m'amener à considérer que vous n'avez simplement pas fait le travail vous mêmes.
+* Pour vous évaluer, je lancerai l'intégralité de votre code. Si certaines cellules ne fonctionnent pas, je débugguerai si besoin, mais je saurai aussi d'où vient l'erreur, ce qui peut m'amener à considérer que vous n'avez simplement pas fait le travail vous-mêmes.
 
 
 # Installation de Python 
@@ -26,7 +30,7 @@ Lancer le .exe
 Accepter les conditions     
 Sélectionner "Just for me"     
 Next     
-Sélectionner "Create shortcuts" et "Clear the package cache upon completion     
+Sélectionner "Create shortcuts" et "Clear the package cache upon completion"     
 Install     
 
 Une fois miniconda installé :     
@@ -68,7 +72,7 @@ Cours 1 (bases de Python) :
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Lmarito/Geo_L3/HEAD?urlpath=%2Fdoc%2Ftree%2FCours_1.ipynb)
 
 ## Applications dans des contextes donnés : OCR, carto, à voir selon vos besoins 
-Cours 2 (données ouvertes, cartographie, OCR et analyses textuelles) :     
+Cours 2 (données ouvertes, GeoPandas / GeoDataFrames, manipulations simples) :     
 
 ## On pourra faire des cours dédiés à vos problématiques !
 - Idée globale : vous codez, je passe vous voir, et je vous oriente 
@@ -85,7 +89,7 @@ Géographie - L3
 18h HETD
 
 ## Objectifs
-Manipulation et traitement de données via notebooks Jupyter
+Manipulation et traitement de données géographiques via notebooks Jupyter
 
 ### Points clés
 - Python et algorithmique
@@ -95,4 +99,4 @@ Manipulation et traitement de données via notebooks Jupyter
 - Curation des données 
 - Enrichissement des données 
 - Filtrage des données 
-- etc 
+- Cartographie
