@@ -7,4 +7,8 @@ dependencies:
   - pip
   - jupyterlab
   - matplotlib
+  - contextily
+  - folium
+  - geopandas
+  - requests
 
