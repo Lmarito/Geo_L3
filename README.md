@@ -1,5 +1,6 @@
 # Cours Géomatique - L3 Géographie
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Lmarito/Geo_L3/HEAD?urlpath=%2Fdoc%2Ftree%2FCours_1.ipynb)
+Binder vers l'environnement Python en ligne
 # Modalités d'examen     
 ## Contrôle continu + examen terminal 
 → Deux cartes à produire / traitement de données en général    
@@ -68,8 +69,6 @@ jupyter notebook
 
 # Plan du cours
 ## Apprentissage des bases de Python et des humanités numériques 
-Cours 1 (bases de Python) :    
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Lmarito/Geo_L3/HEAD?urlpath=%2Fdoc%2Ftree%2FCours_1.ipynb)
 
 ## Applications dans des contextes donnés : OCR, carto, à voir selon vos besoins 
 Cours 2 (données ouvertes, GeoPandas / GeoDataFrames, manipulations simples) :     
