@@ -1,6 +1,7 @@
 # Cours Géomatique - L3 Géographie
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Lmarito/Geo_L3/HEAD?urlpath=%2Fdoc%2Ftree%2FCours_1.ipynb)
-Binder vers l'environnement Python en ligne
+**Cours 1 : bases de Python**
+- Séance 1 → [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Lmarito/Geo_L3/HEAD?urlpath=%2Fdoc%2Ftree%2FCours-1_S1.ipynb)     
+- Séance 2 → [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Lmarito/Geo_L3/HEAD?urlpath=%2Fdoc%2Ftree%2FCours-1_S2.ipynb)    
 # Modalités d'examen     
 ## Contrôle continu + examen terminal 
 → Deux cartes à produire / traitement de données en général    
