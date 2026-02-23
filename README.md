@@ -51,7 +51,7 @@ Entrée.
 
 Enfin, créer un environnement conda :     
 ```
-conda create --prefix .\.conda\envs\Python_TD python=3.10 notebook pip
+conda create --prefix .\.conda\envs\Python_TD python=3.10 notebook pip matplotlib pandas geopandas
 ```
 Et appuyer sur entrée     
 Acceptez les termes et conditions (```a>Entrée>a>Entrée>a>Entrée```)      
