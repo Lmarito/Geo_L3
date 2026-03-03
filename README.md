@@ -67,7 +67,14 @@ Pour lancer un notebook, après avoir activé l'environnement :
 ```
 jupyter notebook
 ```
-
+### Windows 11
+```
+AppData\Local\miniconda3\condabin\conda activate Python_TD
+```
+Puis
+```
+jupyter notebook
+```
 # Plan du cours
 ## Apprentissage des bases de Python et des humanités numériques 
 
