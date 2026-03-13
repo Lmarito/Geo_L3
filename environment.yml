@@ -1,0 +1,14 @@
+name: history_class
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - pip
+  - jupyterlab
+  - matplotlib
+  - contextily
+  - folium
+  - geopandas
+  - requests
+
